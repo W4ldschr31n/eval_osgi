@@ -9,4 +9,7 @@ public class Produit {
 	public Produit(){
 	}
 	
+	public int getId(){
+		return id;
+	}
 }
